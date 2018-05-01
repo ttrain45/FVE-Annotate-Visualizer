@@ -13,9 +13,8 @@ After installing all the requiremnts running this program is simple. Simply run 
 $ pathToPython2.7/python.exe pathToVisualizer/FVE-Annotate-Visualizer.py
 ```
 Once the visualizer has loaded it wil ask for a file location. This location should be where you had the output of FVE-Annotate save to. More specifically the folder where your scaffold files are located.
-.
-+-- _config.yml
-+-- _desired folder
+
++-- _desired folder\n
 |   +-- _scaffold-0
 |   |   +-- _blastp-output.txt
 |   |   +-- _gens.coords.gbk
