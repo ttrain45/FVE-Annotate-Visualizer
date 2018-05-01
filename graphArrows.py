@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 import matplotlib.patches as patch
 import parseScaffoldProteinFAA as parser
 import pandas as pd
