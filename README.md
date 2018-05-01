@@ -16,17 +16,17 @@ Once the visualizer has loaded it wil ask for a file location. This location sho
 
 +-- desired folder
 
-|  +-- scaffold-0
-  
-|  |  +-- blastp-output.txt
-    
-|  |  +-- gens.coords.gbk
-    
-|  |  +-- scaffold-0.fasta
-    
-|  |  +-- scaffold-0.fasta.fai
-    
-|  |  +-- scaffold-0-proteins.faa
-    
-|  +-- scaffold-1...
+  +-- scaffold-0
+
+    +-- blastp-output.txt
+
+    +-- gens.coords.gbk
+
+    +-- scaffold-0.fasta
+
+    +-- scaffold-0.fasta.fai
+
+    +-- scaffold-0-proteins.faa
+
+  +-- scaffold-1...
 
